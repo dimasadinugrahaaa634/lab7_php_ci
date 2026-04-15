@@ -7,7 +7,6 @@ Kelas: I241A
 
 Mata Kuliah: Pemrograman Web 2
 
-Ini adalah proyek contoh untuk praktikum mata kuliah Pemrograman Web lanjutan. Pada proyek ini, kita akan mempelajari tentang PHP Dasar dan Database MySQL.
 
 ## Persyaratan
 Untuk menjalankan proyek ini di lokal, pastikan Anda memiliki hal-hal berikut:
@@ -350,4 +349,3 @@ public function delete($id)
   return redirect('admin/artikel');
 }
 ```
-## Terima Kasih
